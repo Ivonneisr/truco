@@ -1,2 +1,1 @@
-# truco
-truco
+This is Halloween theme game.
